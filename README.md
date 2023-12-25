@@ -6,6 +6,9 @@
 
 ## To Dos
 - [X] Create README.md
+- [ ] Add Installation Instructions 
 - [ ] Other things
 
 `git`
+
+
